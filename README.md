@@ -9,9 +9,6 @@ Snake revisité avec swipe mobile et sauvegarde du meilleur score. Interface flu
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![MIT](https://img.shields.io/badge/Licence-MIT-4f8ef7?style=flat)
 
-<br/>
-
-<img src="screenshot.png" width="500" height="auto"/>
 
 </div>
 
